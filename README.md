@@ -57,10 +57,10 @@ you're free to use whatever you'd like.
 ```
 
 <!-- Links -->
-[badge-npm]: https://img.shields.io/npm/v/@roelofr/wordpress-colour.svg?style=flat-squared
+[badge-npm]: https://img.shields.io/npm/v/@roelofr/wordpress-colour.svg?style=flat-square
 [link-npm]: https://npmjs.com/package/@roelofr/wordpress-colour
 
-[badge-license]: https://img.shields.io/github/license/roelofr/wordpress-colour.svg?style=flat-squared
+[badge-license]: https://img.shields.io/github/license/roelofr/wordpress-colour.svg?style=flat-square
 [link-license]: LICENSE.md
 
 [badge-commit]: https://img.shields.io/github/last-commit/roelofr/wordpress-colour/develop.svg?style=flat-square
