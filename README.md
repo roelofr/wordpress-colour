@@ -2,7 +2,7 @@
 
 [![NPM version][badge-npm]][link-npm]
 [![Licensed under GPL-2.0][badge-license]][link-license]
-[![Last commit on /develop][badge-commit]][link-commit]
+[![Last commit on develop][badge-commit]][link-commit]
 
 This package provides a bunch of variables for Sass, scss and Less to be used
 in conjunction with WordPress.
@@ -63,5 +63,5 @@ you're free to use whatever you'd like.
 [badge-license]: https://img.shields.io/github/license/roelofr/wordpress-colour.svg?style=flat-squared
 [link-license]: LICENSE.md
 
-[badge-commit]: https://img.shields.io/github/commits/roelofr/wordpress-colour/develop/last.svg?style=flat-squared
+[badge-commit]: https://img.shields.io/github/last-commit/roelofr/wordpress-colour/develop.svg?style=flat-square
 [link-commit]: https://github.com/roelofr/wordpress-colour/commits/develop
