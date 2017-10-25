@@ -1,0 +1,12 @@
+# Stylelint Config
+#
+# @author Roelof Roos
+
+extends: "stylelint-config-standard"
+
+plugins:
+  "stylelint-scss"
+
+rules:
+  color-hex-length: "long"
+  number-leading-zero: "never"

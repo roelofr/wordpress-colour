@@ -1,0 +1,13 @@
+{
+  "name": "@roelofr/wordpress-colour",
+  "version": "1.0.0",
+  "description": "The colours for Wordpress, defined in Sass and less",
+  "main": "colour.sass",
+  "author": "Roelof Roos <roelof@schakelmarketeers.nl>",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0",
+    "stylelint-scss": "^2.1.0"
+  }
+}
