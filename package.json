@@ -1,5 +1,5 @@
 {
-  "name": "wordpress-colour",
+  "name": "@roelofr/wordpress-colour",
   "version": "1.0.0",
   "description": "The colours for Wordpress, defined in Sass and less",
   "main": "colour.sass",
