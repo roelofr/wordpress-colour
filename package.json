@@ -1,6 +1,6 @@
 {
   "name": "@roelofr/wordpress-colour",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "The colours for Wordpress, defined in Sass and less",
   "main": "colour.sass",
   "author": "Roelof Roos <roelof@schakelmarketeers.nl>",
