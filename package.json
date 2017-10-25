@@ -5,6 +5,10 @@
   "main": "colour.sass",
   "author": "Roelof Roos <roelof@schakelmarketeers.nl>",
   "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roelofr/wordpress-colour.git"
+  },
   "devDependencies": {
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^17.0.0",
